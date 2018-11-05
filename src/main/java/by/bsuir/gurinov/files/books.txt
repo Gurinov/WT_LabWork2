@@ -1,0 +1,1 @@
+[{"title":"book1","author":"author1","type":"Electronic"},{"title":"book1","author":"author1","type":"Paper"},{"title":"book2","author":"author2","type":"Electronic"},{"title":"title","author":"asdasda","type":"Paper"},{"title":"qwqqwqwq","author":"ewewewew","type":"Paper"}]
